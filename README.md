@@ -1,4 +1,4 @@
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/615912b3-7ed3-474d-9be0-8ca7dae1a68b" />
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/23b03b6d-6d01-448d-8512-333ed175d442" />
 
 
 **SafeDeploy-Node-Flow** ek advanced DevOps showcase hai jo security aur automation ko merge karta hai. Ye pipeline sirf code deploy nahi karti, balki ensure karti hai ki har release **high-quality** aur **vulnerability-free** ho.
